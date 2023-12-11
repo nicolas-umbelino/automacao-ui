@@ -1,10 +1,10 @@
 # automacao-ui-cypress
 
-5 cenários de automacão com o Cypress (sendo 3 positivos e 2 negativos)
+5 cenários de automacão com o Cypress (sendo 3 positivos e 2 negativos).
 
-Cenário 1: fazendo o login com sucesso.
+Cenário 1: fazendo o login com sucesso
 
-Cenário 2: erro de usuário inválido.
+Cenário 2: erro de usuário inválido
 
 Cenário 3: erro de senha inválida
 
